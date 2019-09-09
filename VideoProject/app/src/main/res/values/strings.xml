@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">VideoProject</string>
+    <string name="browse_title"><![CDATA[Videos by Your Company]]></string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+    <string name="mobile_welcome_title">Welcome to the Leanback Sample</string>
+    <string name="mobile_welcome_description">Welcome to the Leanback Sample app! Try opening this on an Android TV for a great leanback experience.</string>
+
+    <!-- Strings related to onboarding -->
+    <string name="onboarding_title_welcome">Welcome to the Leanback Sample</string>
+    <string name="onboarding_title_design">Designed for Android TV</string>
+    <string name="onboarding_title_simple">Simple to include</string>
+    <string name="onboarding_title_project">Check out the Sample Project</string>
+
+    <string name="onboarding_description_welcome">This is the Onboarding Fragment, which runs when the user first opens the app</string>
+    <string name="onboarding_description_design">The Leanback sample shows how to quickly design apps designed for a 10-foot user interface</string>
+    <string name="onboarding_description_simple">You can include the Leanback library through gradle in your own apps</string>
+    <string name="onboarding_description_project">Are you looking for guidance? This sample is available on GitHub so you can see how we built this.</string>
+    <string name="pref_title_settings">App Settings</string>
+    <string name="pref_title_recommendations">Recommendations</string>
+    <string name="pref_key_recommendations">pref_recommendations</string>
+    <string name="pref_key_screen_general">general_settings</string>
+    <string name="pref_title_screen_general">General Settings</string>
+    <string name="pref_key_screen_signin">signin</string>
+    <string name="pref_title_screen_signin">请登录</string>
+    <string name="pref_title_login_description">输入账号和密码</string>
+    <string name="pref_title_username">账号</string>
+    <string name="pref_title_password">密码</string>
+    <string name="pref_key_login">pref_login</string>
+    <string name="pref_title_login">Login</string>
+    <string name="playback_tag">PLAYBACK_TAG</string>
+</resources>
